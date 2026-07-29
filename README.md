@@ -43,11 +43,11 @@ I enjoy transforming raw data into meaningful insights and building backend syst
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/tanishkadabas28/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dabastanishka2805@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -171,7 +171,7 @@ Restaurant Insights using SQL & Power BI.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-tech28&theme=tokyo-night"/>
 
 </p>
 
