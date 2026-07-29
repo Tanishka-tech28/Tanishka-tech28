@@ -14,12 +14,14 @@
 📊 Passionate about **Data Analytics, Backend Development, and Artificial Intelligence**, with hands-on experience in building data-driven solutions and scalable backend applications.
 
 🌱 Currently Learning
+
     - Advanced FastAPI
     - Machine Learning
     - AWS Cloud
     - Backend System Design
 
 💬 Ask me about
+
     - Python
     - SQL
     - Power BI
@@ -66,7 +68,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 </p>
 
 
-# 🏆 Certifications
+# 🏆 Professional Certifications
 
 | Certification | Issuer |
 |---------------|--------|
@@ -123,7 +125,5 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 <h3 align="center">
 
 ✨ Thanks for visiting my profile! ✨
-
-If you like my work, don't forget to ⭐ my repositories.
 
 </h3>
