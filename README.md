@@ -76,7 +76,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 
 
-# 🔥 GitHub Streak
+# GitHub Contribution
 
 <p align="center">
 
@@ -84,12 +84,9 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 </p>
 
-
-# 📊 GitHub Activity Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-tech28&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-tech28&theme=light-grey"/>
 
 </p>
 
