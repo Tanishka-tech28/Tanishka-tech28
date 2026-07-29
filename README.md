@@ -15,20 +15,20 @@
 
 🌱 Currently Learning
 
-    - Advanced FastAPI
-    - Machine Learning
-    - AWS Cloud
-    - Backend System Design
+- Advanced FastAPI
+- Machine Learning
+- AWS Cloud
+- Backend System Design
 
 💬 Ask me about
 
-    - Python
-    - SQL
-    - Power BI
-    - FastAPI
-    - REST APIs
-    - Pandas
-    - Git & GitHub
+- Python
+- SQL
+- Power BI
+- FastAPI
+- REST APIs
+- Pandas
+- Git & GitHub
 
 ⚡ **Fun Fact**
 
