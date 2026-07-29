@@ -114,21 +114,11 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 </p>
 
-
-# 🌱 Currently Exploring
-
-- Backend Architecture
-- API Development
-- Machine Learning
-- Cloud Computing (AWS)
-- Data Engineering
-- Docker
-
-# 💬 Favourite Quote
+<p align="center">
 
 > **"Without data, you're just another person with an opinion."**  
 > — W. Edwards Deming
-
+</p>
 
 <h3 align="center">
 
