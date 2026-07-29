@@ -33,7 +33,7 @@
 
 <h2> 🌐 Connect With Me </h2>
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/tanishkadabas28/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
@@ -48,7 +48,7 @@
 
 <h2> 🚀 Tech Stack </h2>
 
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,html,css,js,mysql,sqlite,aws,git,github,postman,vscode" height="35"/>
 
