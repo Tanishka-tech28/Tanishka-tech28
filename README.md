@@ -30,7 +30,7 @@
 - Pandas
 - Git & GitHub
 
-_
+--
 
 <h3> 🌐 Connect With Me </h3>
 
