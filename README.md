@@ -30,18 +30,17 @@
 - Pandas
 - Git & GitHub
 
---
 
 <h3> 🌐 Connect With Me </h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/tanishkadabas28/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
 </a>
 
 <a href="mailto:dabastanishka2805@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
 </a>
 
 </p>
