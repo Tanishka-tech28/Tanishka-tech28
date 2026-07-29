@@ -91,7 +91,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 </p>
 
 
-# 👀 Profile Views
+# Profile check-ins
 
 <p align="center">
 
@@ -101,12 +101,8 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 <p align="center">
 
+✨ Thanks for visiting my profile! ✨
 > **"Without data, you're just another person with an opinion."**  
 > — W. Edwards Deming
 </p>
 
-<h3 align="center">
-
-✨ Thanks for visiting my profile! ✨
-> I enjoy transforming raw data into meaningful insights and building backend systems that solve real-world problems.
-</h3>
