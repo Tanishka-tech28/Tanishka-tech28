@@ -31,7 +31,7 @@
 - Git & GitHub
 
 
-# 🌐 Connect With Me
+<h2> 🌐 Connect With Me </h2>
 
 <p align="left">
 
@@ -46,7 +46,7 @@
 </p>
 
 
-# 🚀 Tech Stack
+<h2> 🚀 Tech Stack </h2>
 
 <p align="center">
 
@@ -55,7 +55,7 @@
 </p>
 
 
-# 📊 Data Analytics Stack
+<h2> 📊 Data Analytics Stack  </h2>
 
 <p align="center">
 
@@ -64,7 +64,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 </p>
 
 
-# 🏆 Professional Certifications
+<h2> 🏆 Professional Certifications </h2>
 
 | Certification | Issuer |
 |---------------|--------|
@@ -76,7 +76,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 
 
-# GitHub Contribution
+<h2> GitHub Contribution </h2>
 
 <p align="center">
 
@@ -90,10 +90,9 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 </p>
 
-
-<p align="center">
 <h2> Profile check-ins </h2>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tanishka-tech28&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
 
 </p>
