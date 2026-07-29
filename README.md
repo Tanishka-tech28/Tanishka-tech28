@@ -92,13 +92,11 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 </p>
 
-<p align="center">
-
+<h3 align="center">
 ✨ Thanks for visiting my profile! ✨
+**"Without data, you're just another person with an opinion."** 
 
-</p>
+</h3>
 
-<p align="center">
 > **"Without data, you're just another person with an opinion."**  
 > — W. Edwards Deming
-</p>
