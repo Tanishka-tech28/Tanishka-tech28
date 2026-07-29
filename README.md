@@ -91,9 +91,8 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 </p>
 
 
-# Profile check-ins
-
 <p align="center">
+<h2> Profile check-ins </h2>
 
 <img src="https://komarev.com/ghpvc/?username=Tanishka-tech28&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
 
