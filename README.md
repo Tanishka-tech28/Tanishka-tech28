@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,html,css,js,mysql,sqlite,aws,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,html,css,js,mysql,sqlite,aws,git,github,postman,vscode" height="30"/>
 
 </p>
 
