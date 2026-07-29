@@ -97,7 +97,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 </h3>
 
 <p align="center">
-Without data, you're just another person with an opinion.
+"Without data, you're just another person with an opinion."
 </p>
 
 <p align="center">
