@@ -36,11 +36,11 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tanishkadabas28/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
 </a>
 
 <a href="mailto:dabastanishka2805@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
 
 </p>
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,html,css,js,mysql,sqlite,aws,git,github,postman,vscode" height="30"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,html,css,js,mysql,sqlite,aws,git,github,postman,vscode" height="35"/>
 
 </p>
 
@@ -103,4 +103,3 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 > **"Without data, you're just another person with an opinion."**  
 > — W. Edwards Deming
 </p>
-
