@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanishka Dabas</h1>
+<h1 align="center">Hi, I'm Tanishka Dabas</h1>
 
 <h3 align="center">Data Analyst • Backend Developer • AI Enthusiast</h3>
 
@@ -41,7 +41,7 @@ I enjoy transforming raw data into meaningful insights and building backend syst
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/tanishkadabas28/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
