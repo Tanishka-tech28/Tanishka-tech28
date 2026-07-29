@@ -51,10 +51,6 @@ I enjoy transforming raw data into meaningful insights and building backend syst
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
 </p>
 
 ---
@@ -149,9 +145,9 @@ Restaurant Insights using SQL & Power BI.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanishka-tech28&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka-tech28&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -161,7 +157,7 @@ Restaurant Insights using SQL & Power BI.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Tanishka-tech28&theme=tokyonight"/>
 
 </p>
 
@@ -181,7 +177,7 @@ Restaurant Insights using SQL & Power BI.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Tanishka-tech28&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
 
 </p>
 
