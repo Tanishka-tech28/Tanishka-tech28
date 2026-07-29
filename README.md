@@ -121,5 +121,5 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 <h3 align="center">
 
 ✨ Thanks for visiting my profile! ✨
-> — I enjoy transforming raw data into meaningful insights and building backend systems that solve real-world problems.
+> I enjoy transforming raw data into meaningful insights and building backend systems that solve real-world problems.
 </h3>
