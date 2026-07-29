@@ -81,11 +81,6 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Tanishka-tech28&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-tech28&theme=light-pink"/>
 
 </p>
