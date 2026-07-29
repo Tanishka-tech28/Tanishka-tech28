@@ -86,7 +86,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-tech28&theme=light-grey"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishka-tech28&theme=light-pink"/>
 
 </p>
 
