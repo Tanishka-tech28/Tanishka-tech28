@@ -7,7 +7,7 @@
 </p>
 
 
-## 🙋‍♂️ About Me
+<h3> 🙋‍♂️ About Me </h3>
 
 🎓 **B.Tech Graduate in Data Science**
 
@@ -31,7 +31,7 @@
 - Git & GitHub
 
 
-<h2> 🌐 Connect With Me </h2>
+<h3> 🌐 Connect With Me </h3>
 
 <p align="left">
 
@@ -46,7 +46,7 @@
 </p>
 
 
-<h2> 🚀 Tech Stack </h2>
+<h3> 🚀 Tech Stack </h3>
 
 <p align="center">
 
@@ -55,7 +55,7 @@
 </p>
 
 
-<h2> 📊 Data Analytics Stack  </h2>
+<h3> 📊 Data Analytics Stack  </h3>
 
 <p align="center">
 
@@ -64,7 +64,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 </p>
 
 
-<h2> 🏆 Professional Certifications </h2>
+<h3> 🏆 Professional Certifications </h3>
 
 | Certification | Issuer |
 |---------------|--------|
@@ -76,7 +76,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 
 
-<h2> GitHub Contribution </h2>
+<h3> GitHub Contribution </h3>
 
 <p align="center">
 
@@ -90,7 +90,7 @@ Python • SQL • Power BI • Excel • Tableau • Pandas • NumPy • Sciki
 
 </p>
 
-<h2> Profile check-ins </h2>
+<h3> Profile check-ins </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tanishka-tech28&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
